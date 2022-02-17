@@ -1,0 +1,12 @@
+# Pseudo-code of a program that gives the sum of squares of user input.
+
+function SumofSquares (m, n) {
+	sum = (m x m) + (n x n)
+	Return sum 
+n = input (‘first number’)
+m = input (‘Second number’)
+callSumofSquares
+
+
+
+	  
